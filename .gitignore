@@ -1,0 +1,11 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+banco_cadastro.db
+*.sqlite
+*.sqlite3
+*.xls
+*.xlsx
+
