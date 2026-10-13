@@ -1,5 +1,7 @@
 # Amateur Radio Call Manager
 
+🇧🇷 [Leia este README em Português (Brasil)](README.pt-BR.md).
+
 Desktop application built for an amateur radio operator to register, edit, delete and export radio call records.
 
 The project started from a real request from my college professor, Virgilio Cesar Leandro. The goal was to replace spreadsheet-only tracking with a small local app using a graphical interface and SQLite.
