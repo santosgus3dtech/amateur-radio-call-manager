@@ -9,3 +9,7 @@ banco_cadastro.db
 *.xls
 *.xlsx
 
+
+# Metadados locais do cofre documental
+/docs/.obsidian/
+/docs/.trash/
